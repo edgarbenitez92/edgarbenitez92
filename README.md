@@ -1,5 +1,5 @@
 # 💫 About Me:
-Industrial engineer and web developer with specialization in Front End and growing experience in Back End technologies. My background includes the design and development of dynamic interfaces using HTML5, CSS3, SASS, JavaScript and TypeScript, as well as the integration of backend services using RESTful APIs and GraphQL.<br><br>I excel in the use of design libraries such as Bootstrap and Angular Material, and I have experience developing with modern frameworks such as Angular (2 and higher), Ionic (Angular), React and React Native. My programming experience is not only limited to the Front End, as I also have skills in Java with Spring Boot, SQL database management with PostgreSQL and Docker container management, which allows me to have a holistic view of software development.<br><br>I have contributed to the development of significant projects in the financial and health sector for SaaS companies, collaborating with prominent clients such as Penta Financiero, Fynsa (Fintual) and Care You. <br><br>My multidisciplinary approach and ability to adapt to diverse technologies allow me to generate effective and high impact solutions in any development environment.<br><br>My goal for this year 2024 and the next is to continue growing as an integral developer that allows me to have a comprehensive vision in software development and qualify as a fullstack developer.
+Industrial engineer and web developer with specialization in Front End and growing experience in Back End technologies. My background includes the design and development of dynamic interfaces using HTML5, CSS3, SASS, JavaScript and TypeScript, as well as the integration of backend services using RESTful APIs and GraphQL.<br><br>I excel in the use of design libraries such as Bootstrap and Angular Material, and I have experience developing with modern frameworks such as Angular (2 and higher), Ionic (Angular), React and React Native. My programming experience is not only limited to the Front End, as I also have skills in Java with Spring Boot, SQL database management with PostgreSQL and Docker container management, which allows me to have a holistic view of software development.<br><br>My goal for this year 2024 and the next is to continue growing as an integral developer that allows me to have a comprehensive vision in software development and qualify as a fullstack developer.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@ Industrial engineer and web developer with specialization in Front End and growi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=edgarbenitez92&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarbenitez92&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
